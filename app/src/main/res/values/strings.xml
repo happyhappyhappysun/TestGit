@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="button1">启动Service</string>
+    <string name="button2">发送广播</string>
+    <string name="button3">跳转Activity</string>
+    <string name="button4">停止服务</string>
+</resources>
